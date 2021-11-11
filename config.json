@@ -1,0 +1,9 @@
+{
+    "programs": [
+        "QQMusic.exe",
+        "dota.exe"
+    ],
+    "time": 120,
+    "thresholdTime": 5,
+    "runOnTime": 120
+}
