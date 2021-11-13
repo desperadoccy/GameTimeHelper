@@ -10,7 +10,7 @@ toaster = ToastNotifier()
 def notify(title, content, duration):
     toaster.show_toast(title,
         content,
-        icon_path=None,
+        icon_path=r'./logo.ico',
         duration=duration,
         threaded=True)
 if __name__ == '__main__':
@@ -53,4 +53,4 @@ if __name__ == '__main__':
                     todayTime[k] += (time2-time1).seconds
         programTime = tmp
         end = time.perf_counter()
-        # time.sleep(start+60-end)
+        time.sleep(0.5)
