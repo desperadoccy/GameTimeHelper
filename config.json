@@ -1,7 +1,14 @@
 {
     "programs": [
-        "QQMusic.exe",
-        "dota.exe"
+        "BH3.exe",
+        "Timberborn.exe",
+        "MuseDash.exe",
+        "dota2.exe",
+        "kenshi_x64.exe",
+        "Terraria.exe",
+        "Three_Kingdoms.exe",
+        "Raft.exe",
+        "r5apex.exe"
     ],
     "time": 120,
     "thresholdTime": 5,
